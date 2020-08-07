@@ -9,7 +9,7 @@ This is an simple project for a 4-lines power supply (9 volt) bank capable of po
 ### Features
 - 12-15V AC/DC power plug for external input power supply (center-negative)
 - Input with polarity test
-- 4 isolated and stabilized 9V-100mA center-negative output (common ground)
+- 4 isolated and stabilized 9V-250mA center-negative output (common ground)
 
 ![package-inside](powerbank-4_built-3.jpg)
 
