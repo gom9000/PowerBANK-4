@@ -1,7 +1,7 @@
 # PowerBANK-4
 This is an simple project for a 4-lines power supply (9 volt) bank capable of powering small household devices.
 
-![powerbank-4-built](powerbank-4_built1.jpg)
+![powerbank-4-built](powerbank-4_built-1.jpg)
 
 
 ## Specifications
@@ -11,7 +11,7 @@ This is an simple project for a 4-lines power supply (9 volt) bank capable of po
 - Input with polarity test
 - 4 isolated and stabilized 9V-100mA center-negative output (common ground)
 
-![package-inside](powerbank-4_built3.jpg)
+![package-inside](powerbank-4_built-3.jpg)
 
 ### Hardware
 Schematics and PCB layouts are designed with ExpressPCB free CAD software.
